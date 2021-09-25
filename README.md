@@ -21,7 +21,7 @@
 <a href="https://fb.com/nirajkafle8848" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nirajkafle8848" height="30" width="40" /></a>
 <a href="https://instagram.com/nirajkafle8848" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nirajkafle8848" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/lerndemy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lerndemy" height="30" width="40" /></a>
-<a href="https://discord.gg/2612" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="2612" height="30" width="40" /></a>
+<a href="https://discord.gg/524904555117412352" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="2612" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
