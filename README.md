@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Niraj Kafle</h1>
 <h3 align="center">Full stack web and app developer from Nepal</h3>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **TypeScript, Webpack & Electron**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kafle1](https://github.com/kafle1)
 
