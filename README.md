@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/nirajkafle8848" target="blank"><img src="https://img.shields.io/twitter/follow/nirajkafle8848?logo=twitter&style=for-the-badge" alt="nirajkafle8848" /></a> </p>
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **TypeScript & Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kafle1](https://github.com/kafle1)
 
