@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kafle1&label=Profile%20views&color=db0606&style=flat" alt="kafle1" /> </p>
 
-<p align="left"> <a href="https://twitter.com/buckwheat8848" target="blank"><img src="https://img.shields.io/twitter/follow/nirajkafle8848?logo=twitter&style=for-the-badge" alt="nirajkafle8848" /></a> </p>
+<p align="left"> <a href="https://twitter.com/buckwheat8848" target="blank"><img src="https://img.shields.io/twitter/follow/nirajkafle8848?logo=twitter&style=for-the-badge" alt="buckwheat8848" /></a> </p>
 
 - 🌱 I’m currently learning **TypeScript & Flutter**
 
