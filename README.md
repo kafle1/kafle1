@@ -15,6 +15,8 @@
 
 - 📫 How to reach me **kafleniraj@gmail.com**
 
+- 📄 My resume [https://resume.showwcase.com/buckwheat.pdf](https://resume.showwcase.com/buckwheat.pdf)
+
 - ⚡ Fun fact **I am a slow learner**
 
 <h3 align="left">Connect with me:</h3>
