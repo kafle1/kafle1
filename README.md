@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/buckwheat8848" target="blank"><img src="https://img.shields.io/twitter/follow/buckwheat8848?logo=twitter&style=for-the-badge" alt="buckwheat8848" /></a> </p>
 
-- 🌱 I’m currently learning **Next JS & Nest JS**
+- 🌱 I’m currently learning **AWS, Linode and K8s**
 
 - 👨‍💻 All of my projects are available at [https://buckwheat.showwcase.com/](https://buckwheat.showwcase.com/)
 
