@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **kafleniraj@gmail.com**
 
-- 📄 My resume [Download](https://resume.showwcase.com/buckwheat.pdf)
+- 📄 My resume [Download](https://drive.google.com/file/d/1Sb-4E5quXDsi3SVu9KpwhcBe1sImpqBY/view)
 
 - ⚡ Fun fact **Am good at getting things done ;)**
 
