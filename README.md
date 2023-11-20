@@ -13,15 +13,13 @@
 
 - 🌱 I’m currently learning **AWS, Linode and K8s**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://buckwheat.showwcase.com/)
-
 - 📝 I regularly write articles on [The Info Docx](https://theinfodocx.blogspot.com/)
 
 - 💬 Ask me about **Web and Application Development**
 
 - 📫 How to reach me **kafleniraj@gmail.com**
 
-- 📄 My resume [Download](https://drive.google.com/file/d/1Sb-4E5quXDsi3SVu9KpwhcBe1sImpqBY/view)
+- 📄 My resume [Download](https://bit.ly/niraj-resume)
 
 - ⚡ Fun fact **Am good at getting things done ;)**
 
