@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niraj Kafle</h1>
-<h3 align="center">Full Stack Developer from Nepal</h3>
+<h3 align="center">Developer from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kafle1&label=Profile%20views&color=db0606&style=flat" alt="kafle1" /> </p>
 </br>
