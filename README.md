@@ -11,7 +11,7 @@
 </p>
 </br>
 
-- 🌱 I’m currently learning **AWS, Linode and K8s**
+- 🌱 I’m currently learning **DevOps**
 
 - 📝 I regularly write articles on [The Info Docx](https://theinfodocx.blogspot.com/)
 
