@@ -5,8 +5,8 @@
 </br>
 <p align="center">
 <a href="#">
-    <img src="https://skillicons.dev/icons?i=ts,nodejs,express,nestjs,graphql,prisma,mongodb,mysql,postgres,redis,docker, git" />
-   <img src="https://skillicons.dev/icons?i=vscode,appwrite,firebase,androidstudio,aws,azure,bash,linux, nginx,cloudflare, postman,dart, flutter, yarn" />
+    <img src="https://skillicons.dev/icons?i=ts,nodejs,express,nestjs,graphql,prisma,mongodb,mysql,postgres,redis,docker,git" />
+   <img src="https://skillicons.dev/icons?i=vscode,appwrite,firebase,androidstudio,aws,azure,bash,linux,nginx,cloudflare,postman,dart,flutter,yarn" />
 </a>
 </p>
 </br>
