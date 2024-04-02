@@ -19,8 +19,6 @@
 
 - 📫 How to reach me **kafleniraj@gmail.com**
 
-- 📄 My resume [Download](https://bit.ly/niraj-resume)
-
 - ⚡ Fun fact **Am good at getting things done ;)**
 
 <h3 align="left">Connect with me:</h3>
